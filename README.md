@@ -21,7 +21,7 @@ Model Architecture: The notebook uses a pre-trained InceptionV3 model as the fou
 
 Model Training: The notebook guides users through the model training process. It explains the number of epochs, loss functions, and evaluation metrics used for training. Users are encouraged to adapt these parameters as needed.
 
-Evaluation and Results: After model training, the notebook provides an evaluation section with metrics such as loss and accuracy on both the training and validation datasets. This allows users to assess the model's performance.
+Evaluation and Results: After model training, the notebook provides an evaluation section with metrics such as loss and accuracy on both the training and validation datasets. This allows users to assess the models performance.
 
 Image Classification: The notebook demonstrates how to use the trained model for traffic sign classification on individual images, providing a practical example of the model's application.
 
